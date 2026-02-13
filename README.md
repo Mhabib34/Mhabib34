@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Backend Developer
 -----------------
 
-I have expertise in Back End Programming (Go & Typecript)
+I have expertise in Back End Programming (Golang & Typecript)
 I always open to collaboration and discussion of new ideas.
 If you are interested in working together, feel free to contact me.
 
