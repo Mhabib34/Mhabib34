@@ -1,10 +1,10 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Muhammad Habib
 =======================================================================================================================================
 
-Backend Developer
+Fullstack Developer
 -----------------
 
-I have expertise in Back End Programming (Golang & Typecript)
+I have expertise in (Golang & Typecript)
 I always open to collaboration and discussion of new ideas.
 If you are interested in working together, feel free to contact me.
 
