@@ -111,8 +111,14 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mhabib34&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&hide_border=false&cache_seconds=86400" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mhabib34&locale=en&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&cache_seconds=86400" height="150" alt="languages graph" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mhabib34&theme=dracula" height="150" alt="stats graph" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mhabib34&theme=dracula" height="150" alt="languages graph" />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mhabib34&theme=dracula&hide_border=false" alt="activity graph" />
 </div>
 
 ###
