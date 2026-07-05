@@ -12,7 +12,7 @@
 
 ###
 
-<p align="left">I have expertise in (Golang & Typecript)<br>I always open to collaboration and discussion of new ideas.<br>If you are interested in working together, feel free to contact me.<br><br>* 🌍  I'm based in Indonesia<br>* ✉️  You can contact me at [mhabib34official@gmail.com](mailto:mhabib34official@gmail.com)</p>
+<p align="left">I have expertise in (Golang & Typecript)<br>I always open to collaboration and discussion of new ideas.<br>If you are interested in working together, feel free to contact me.<br><br>* 🌍  I'm based in Indonesia<br>* ✉️  You can contact me at mhabib34official@gmail.com</p>
 
 ###
 
